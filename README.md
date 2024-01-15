@@ -20,7 +20,7 @@ Welcome to the OIBSIP (Online Internship Projects) repository! This public repos
 
 To know more about this company, click [here](https://oasisinfobyte.com/) to visit the website. 
 
-**Get Social With Oasis Infobyte** 
+**Get Social With Oasis Infobyte,** 
 - Email: [contact@oasisinfobyte.in](mailto:contact@oasisinfobyte.in), [services.oasisinfobyte@gmail.com](mailto:services.oasisinfobyte@gmail.com)
 - LinkedIn: [@Oasis Infobyte](https://www.linkedin.com/company/oasis-infobyte/mycompany/)
 - Instagram: [_oasisinfobyte](https://www.instagram.com/oasisinfobyte/)
@@ -28,63 +28,54 @@ To know more about this company, click [here](https://oasisinfobyte.com/) to vis
 
 ## TASK 1
 
-Level 1 consists of three projects that helped me gain a foundational understanding of web development. These projects focused on front-end development, HTML, CSS, and JavaScript.
-
-1. Project 1 - ******:
-   
-
-   - Description: 
-   - Technologies Used: 
-   - Deployment: The page is deployed on Vercel at .
-   - Repository: The project's GitHub repository can be found at .
-   - ScreenShots: 
-
+- Project: **IRIS FLOWER CLASSIFICATION**
+- Description: Iris flower has three species - setosa, versicolor, and virginica, which differs according to their measurements. Now assume that we have the measurements of the iris flowers according to their species, and here the task is to train a machine learning model that can learn from the measurements of the iris species and classify them. 
+- Dataset Provided: The Scikit-learn library provides the dataset for iris flower classification. The same dataset [link](https://www.kaggle.com/datasets/saurabh00007/iriscsv) is shared for the task of iris flower classification with Machine Learning.
+- Libraries used: pandas, numpy, matplotlib, seaborn, pickle, sklearn, Logistic Regression, Decision Tree, K-Neighbors, Naïve Bayes, SVC.
+- Models used: Decision Tree, K-Neighbors, Naïve Bayes, SVC
+- Repository: The project's GitHub repository can be found at [TASK 1]().
 
 ## TASK 2
 
-Level 2 includes several projects that build upon the skills acquired in Level 1. These projects focused on back-end development, databases, and server-side scripting.
-
-1.  Project 1 - ******:
-
-   - Description: 
-   - Technologies Used: 
-   - Deployment: The calculator is deployed on Vercel at 
-   - Repository: The project's GitHub repository is available at 
-   - ScreenShots: 
-
+- Project: ****
+- Description: 
+- Dataset Provided:
+- Libraries used: 
+- Models used:   
+- Repository: The project's GitHub repository can be found at [TASK 1]().
 
 ## TASK 3
 
-Level 3 is the final level and consists of one comprehensive project. This project involved building a full-stack pizza delivery web application.
-
-- Project - ******
-  - Description: 
-  - Technologies Used: 
-  - Deployment: 
-  - Repository:
+- Project: ****
+- Description: 
+- Dataset Provided: 
+- Models used:   
+- Repository: The project's GitHub repository can be found at [TASK 1]().
  
 ## TASK 4
 
-Level 3 is the final level and consists of one comprehensive project. This project involved building a full-stack pizza delivery web application.
-
-- Project - ******
-  - Description: 
-  - Technologies Used: 
-  - Deployment: 
-  - Repository:
+- Project: ****
+- Description: 
+- Dataset Provided: 
+- Models used:   
+- Repository: The project's GitHub repository can be found at [TASK 1]().
  
 ## TASK 5
 
-Level 3 is the final level and consists of one comprehensive project. This project involved building a full-stack pizza delivery web application.
-
-- Project - ******
-  - Description: 
-  - Technologies Used: 
-  - Deployment: 
-  - Repository:
-
+- Project: ****
+- Description: 
+- Dataset Provided: 
+- Models used:   
+- Repository: The project's GitHub repository can be found at [TASK 1]().
+  
 ## Conclusion
 
-These projects provided valuable hands-on experience and helped me enhance my skills as a web developer. Each project presented unique challenges and opportunities for growth. I am grateful for the learning experience and the chance to contribute to real-world web development projects.
+These tasks provided valuable hands-on experience and helped me enhance my skills as a Data Scientist. Within the duration of my internship, I successfully completed three challenging tasks that were provided to me by Oasis Infobyte. Each task presented unique challenges and opportunities for growth. I am truly proud of the work I have accomplished during my time here, and I hope that this repository can serve as an inspiration to others to be diligent, dedicated, and supportive in their roles within their respective companies. I am grateful for the learning experience and the chance to contribute to real-world data science projects. 
 
-Please refer to the respective project repositories for more detailed information on each project. Feel free to reach out if you have any questions or feedback!
+I want to extend my heartfelt gratitude to **Oasis Infobyte** for giving me this wonderful opportunity to learn and grow professionally. Working with such a remarkable company has been a privilege, and I am eager to continue contributing my best efforts to support the development of the companies I work with in the future. 
+
+Thank you once again to **Oasis Infobyte** and everyone involved in this enriching experience. I am excited about what the future holds and look forward to more fantastic opportunities ahead!
+
+Please refer to the respective task repositories for more detailed information on each task. Feel free to reach out if you have any questions or feedback!
+
+If you find any of these tasks intriguing or beneficial, please consider giving the repository a star mark. Your support is greatly appreciated!
