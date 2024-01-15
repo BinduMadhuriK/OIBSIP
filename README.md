@@ -18,6 +18,12 @@ Welcome to the OIBSIP (Online Internship Projects) repository! This public repos
 
 **Oasis Infobyte** believe in making the youth especially the students self-aware and exploring the untouched world of technology and tremendous growth-making fields. This company believes in bridging the gap between students and their knowledge in the industrial field & bringing them a step closer to their dream. This company is all about creating opportunities for leadership development, learning, student engagement, and fostering of shared interests and also develop enriching environments and experiences that promote students' knowledge and wellbeing.
 
+To know more about this company, click [here](https://oasisinfobyte.com/) to visit the website. 
+
+**Get Social With Oasis Infobyte** 
+- Email: [services.oasisinfobyte@gmail.com](mailto:services.oasisinfobyte@gmail.com)
+- LinkedIn: [@Oasis Infobyte](https://www.linkedin.com/company/oasis-infobyte/mycompany/)
+
 ## TASK 1
 
 Level 1 consists of three projects that helped me gain a foundational understanding of web development. These projects focused on front-end development, HTML, CSS, and JavaScript.
