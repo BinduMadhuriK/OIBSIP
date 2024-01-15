@@ -33,7 +33,7 @@ To know more about this company, click [here](https://oasisinfobyte.com/) to vis
 - Dataset Provided: The Scikit-learn library provides the dataset for iris flower classification. The same dataset [link](https://www.kaggle.com/datasets/saurabh00007/iriscsv) is shared for the task of iris flower classification with Machine Learning.
 - Libraries used: pandas, numpy, matplotlib, seaborn, pickle, sklearn, Logistic Regression, Decision Tree, K-Neighbors, Naïve Bayes, SVC.
 - Models used: Decision Tree, K-Neighbors, Naïve Bayes, SVC
-- Repository: The project's GitHub repository can be found at [TASK 1]().
+- Repository: The project's GitHub repository can be found at [TASK 1](https://github.com/BinduMadhuriK/OIBSIP/tree/main/TASK%201).
 
 ## TASK 2
 
@@ -42,7 +42,7 @@ To know more about this company, click [here](https://oasisinfobyte.com/) to vis
 - Dataset Provided: [Unemployment in India](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
 - Libraries used: 
 - Models used:   
-- Repository: The project's GitHub repository can be found at [TASK 2]().
+- Repository: The project's GitHub repository can be found at [TASK 2](https://github.com/BinduMadhuriK/OIBSIP/tree/main/TASK%202).
 
 ## TASK 3
 
@@ -51,7 +51,7 @@ To know more about this company, click [here](https://oasisinfobyte.com/) to vis
 - Dataset Provided: [Car data](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars)
 - Libraries used: 
 - Models used:   
-- Repository: The project's GitHub repository can be found at [TASK 3]().
+- Repository: The project's GitHub repository can be found at [TASK 3](https://github.com/BinduMadhuriK/OIBSIP/tree/main/TASK%203).
  
 ## TASK 4
 
@@ -60,7 +60,7 @@ To know more about this company, click [here](https://oasisinfobyte.com/) to vis
 - Dataset Provided: [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 - Libraries used: 
 - Models used:   
-- Repository: The project's GitHub repository can be found at [TASK 4]().
+- Repository: The project's GitHub repository can be found at [TASK 4](https://github.com/BinduMadhuriK/OIBSIP/tree/main/TASK%204).
  
 ## TASK 5
 
@@ -69,7 +69,7 @@ To know more about this company, click [here](https://oasisinfobyte.com/) to vis
 - Dataset Provided: [Advertising Dataset](https://www.kaggle.com/datasets/bumba5341/advertisingcsv)
 - Libraries used: 
 - Models used: 
-- Repository: The project's GitHub repository can be found at [TASK 5]().
+- Repository: The project's GitHub repository can be found at [TASK 5](https://github.com/BinduMadhuriK/OIBSIP/tree/main/TASK%205).
   
 ## Conclusion
 
