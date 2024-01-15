@@ -76,6 +76,6 @@ I want to extend my heartfelt gratitude to **Oasis Infobyte** for giving me this
 
 Thank you once again to **Oasis Infobyte** and everyone involved in this enriching experience. I am excited about what the future holds and look forward to more fantastic opportunities ahead!
 
-Please refer to the respective task repositories for more detailed information on each task. Feel free to reach out if you have any questions or feedback!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/bindu-madhuri-kadiyala-79a55718a/) and explore my GitHub repositories for a detailed look into each task. Feel free to reach out if you have any questions or feedback!
 
 If you find any of these tasks intriguing or beneficial, please consider giving the repository a star mark. Your support is greatly appreciated!
