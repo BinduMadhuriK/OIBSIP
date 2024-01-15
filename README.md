@@ -21,8 +21,10 @@ Welcome to the OIBSIP (Online Internship Projects) repository! This public repos
 To know more about this company, click [here](https://oasisinfobyte.com/) to visit the website. 
 
 **Get Social With Oasis Infobyte** 
-- Email: [services.oasisinfobyte@gmail.com](mailto:services.oasisinfobyte@gmail.com)
+- Email: [contact@oasisinfobyte.in](mailto:contact@oasisinfobyte.in), [services.oasisinfobyte@gmail.com](mailto:services.oasisinfobyte@gmail.com)
 - LinkedIn: [@Oasis Infobyte](https://www.linkedin.com/company/oasis-infobyte/mycompany/)
+- Instagram: [_oasisinfobyte](https://www.instagram.com/oasisinfobyte/)
+- Facebbok: [Oasis Infobyte](https://www.facebook.com/people/Oasis-Infobyte/100077689264614/?ref=page_internal)
 
 ## TASK 1
 
