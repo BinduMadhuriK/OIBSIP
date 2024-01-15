@@ -5,16 +5,20 @@ Welcome to the OIBSIP (Online Internship Projects) repository! This public repos
 ## Table of Contents
 
 - [About Company](#about-company)
-- [Level 1 Projects](#level-1-projects)
-- [Level 2 Projects](#level-2-projects)
-- [Level 3 Project](#level-3-project)
+- [TASK 1](#task-1)
+- [TASK 2](#task-2)
+- [TASK 3](#task-3)
+- [TASK 4](#task-4)
+- [TASK 5](#task-5)
+- [Conclusion](#conclusion)
 
 ## About Company
-OASIS INFOBYTE is a community of diverse people coming together with similar objectives and ultimate goals.
 
-OASIS INFOBYTE is all about creating opportunities for leadership development, learning, student engagement, and fostering of shared interests. We develop enriching environments and experiences that promote students' knowledge and wellbeing.
+**Oasis Infobyte** is a community of diverse people coming together with similar objectives and ultimate goals. They develop personalized software at their company and turn the digital dreams of the clients into a reality. This company works closely with their users throughout development to ensure that they are still aligned with the end-goal. This company is committed to producing exceptional software for each of the clients.
 
-## Level 1 Projects
+**Oasis Infobyte** believe in making the youth especially the students self-aware and exploring the untouched world of technology and tremendous growth-making fields. This company believes in bridging the gap between students and their knowledge in the industrial field & bringing them a step closer to their dream. This company is all about creating opportunities for leadership development, learning, student engagement, and fostering of shared interests and also develop enriching environments and experiences that promote students' knowledge and wellbeing.
+
+## TASK 1
 
 Level 1 consists of three projects that helped me gain a foundational understanding of web development. These projects focused on front-end development, HTML, CSS, and JavaScript.
 
@@ -28,7 +32,7 @@ Level 1 consists of three projects that helped me gain a foundational understand
    - ScreenShots: 
 
 
-## Level 2 Projects
+## TASK 2
 
 Level 2 includes several projects that build upon the skills acquired in Level 1. These projects focused on back-end development, databases, and server-side scripting.
 
@@ -41,7 +45,27 @@ Level 2 includes several projects that build upon the skills acquired in Level 1
    - ScreenShots: 
 
 
-## Level 3 Project
+## TASK 3
+
+Level 3 is the final level and consists of one comprehensive project. This project involved building a full-stack pizza delivery web application.
+
+- Project - ******
+  - Description: 
+  - Technologies Used: 
+  - Deployment: 
+  - Repository:
+ 
+## TASK 4
+
+Level 3 is the final level and consists of one comprehensive project. This project involved building a full-stack pizza delivery web application.
+
+- Project - ******
+  - Description: 
+  - Technologies Used: 
+  - Deployment: 
+  - Repository:
+ 
+## TASK 5
 
 Level 3 is the final level and consists of one comprehensive project. This project involved building a full-stack pizza delivery web application.
 
