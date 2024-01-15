@@ -1,12 +1,16 @@
-# Oasis Infobyte Internship - Data Science Internship Projects
+# Oasis Infobyte Internship - Data Science Internship Tasks
 
-Welcome to the OIBSIP (Online Internship Projects) repository! This repository contains the projects completed during my web developer internship at Oasis Info Byte. The projects were assigned in three levels, each with its own set of projects to complete.
+Welcome to the OIBSIP (Online Internship Projects) repository! This public repository contains the successful completion of three tasks that were assigned to me during my esteemed internship with Oasis Infobyte as a Data Science Intern from 1st January 2024 to 5th February 2024. Working with this esteemed company has been an incredible experience, and I am immensely grateful for the opportunity. By making this repository accessible, I aim to demonstrate my skills and progress in data science to potential employers and the wider community. Additionally, it allows for collaboration and feedback from others interested in data science, fostering a learning and growth environment.
 
 ## Table of Contents
 
+- [About Company](#about-company)
 - [Level 1 Projects](#level-1-projects)
 - [Level 2 Projects](#level-2-projects)
 - [Level 3 Project](#level-3-project)
+
+## About Company
+
 
 ## Level 1 Projects
 
