@@ -37,36 +37,39 @@ To know more about this company, click [here](https://oasisinfobyte.com/) to vis
 
 ## TASK 2
 
-- Project: ****
-- Description: 
-- Dataset Provided:
+- Project: **UNEMPLOYMENT ANALYSIS WITH PYTHON**
+- Description: Unemployment is measured by the unemployment rate which is the number of people who are unemployed as a percentage of the total labour force. We have seen a sharp increase in the unemployment rate during Covid-19, so analyzing the unemployment rate can be a good data science project. 
+- Dataset Provided: [Unemployment in India](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
 - Libraries used: 
 - Models used:   
-- Repository: The project's GitHub repository can be found at [TASK 1]().
+- Repository: The project's GitHub repository can be found at [TASK 2]().
 
 ## TASK 3
 
-- Project: ****
-- Description: 
-- Dataset Provided: 
+- Project: **CAR PRICE PREDICTION WITH MACHINE LEARNING**
+- Description: The price of a car depends on a lot of factors like the goodwill of the brand of the car, features of the car, horsepower and the mileage it gives and many more. Car price prediction is one of the major research areas in machine learning. So if you want to learn how to train a car price prediction model then this project is for you.
+- Dataset Provided: [Car data](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars)
+- Libraries used: 
 - Models used:   
-- Repository: The project's GitHub repository can be found at [TASK 1]().
+- Repository: The project's GitHub repository can be found at [TASK 3]().
  
 ## TASK 4
 
-- Project: ****
-- Description: 
-- Dataset Provided: 
+- Project: **EMAIL SPAM DETECTION WITH MACHINE LEARNING**
+- Description: We’ve all been the recipient of spam emails before. Spam mail, or junk mail, is a type of email that is sent to a massive number of users at one time, frequently containing cryptic messages, scams, or most dangerously, phishing content. In this Project, we have to use Python to build an email spam detector. Then, we need to use machine learning to train the spam detector to recognize and classify emails into spam and non-spam. 
+- Dataset Provided: [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+- Libraries used: 
 - Models used:   
-- Repository: The project's GitHub repository can be found at [TASK 1]().
+- Repository: The project's GitHub repository can be found at [TASK 4]().
  
 ## TASK 5
 
-- Project: ****
-- Description: 
-- Dataset Provided: 
-- Models used:   
-- Repository: The project's GitHub repository can be found at [TASK 1]().
+- Project: **SALES PREDICTION USING PYTHON**
+- Description: Sales prediction means predicting how much of a product people will buy based on factors such as the amount you spend to advertise your product, the segment of people you advertise for, or the platform you are advertising on about your product. Typically, a product and service-based business always need their Data Scientist to predict their future sales with every step they take to manipulate the cost of advertising their product. Complete the task of sales prediction with machine learning using Python.
+- Dataset Provided: [Advertising Dataset](https://www.kaggle.com/datasets/bumba5341/advertisingcsv)
+- Libraries used: 
+- Models used: 
+- Repository: The project's GitHub repository can be found at [TASK 5]().
   
 ## Conclusion
 
@@ -74,7 +77,7 @@ These tasks provided valuable hands-on experience and helped me enhance my skill
 
 I want to extend my heartfelt gratitude to **Oasis Infobyte** for giving me this wonderful opportunity to learn and grow professionally. Working with such a remarkable company has been a privilege, and I am eager to continue contributing my best efforts to support the development of the companies I work with in the future. 
 
-Thank you once again to **Oasis Infobyte** and everyone involved in this enriching experience. I am excited about what the future holds and look forward to more fantastic opportunities ahead!
+Thank you once again to [**Oasis Infobyte**](https://www.linkedin.com/company/oasis-infobyte/mycompany/) and everyone involved in this enriching experience. I am excited about what the future holds and look forward to more fantastic opportunities ahead!
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/bindu-madhuri-kadiyala-79a55718a/) and explore my GitHub repositories for a detailed look into each task. Feel free to reach out if you have any questions or feedback!
 
