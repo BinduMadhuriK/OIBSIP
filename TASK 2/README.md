@@ -5,7 +5,7 @@
 - We have seen a sharp increase in the unemployment rate during Covid-19, so analyzing the unemployment rate can be a good data science project. 
 
 ## About the Dataset
-The provided ```**Unemployment in India.csv**``` Dataset delves into the unemployment landscape across diverse states in India. The story behind this dataset is how lock-down affects employment opportunities and how the unemployment rate increases during the Covid-19 for different states in India for last one year. Within the dataset, vital indicators including State-wise breakdown, timeline, measurement frequency, Estimated Unemployment Rate (%), Estimated Employed Individuals, Estimated Labour Participation Rate (%) and Area are encompassed. These columns are briefed as follows:
+The provided ```Unemployment in India.csv``` Dataset delves into the unemployment landscape across diverse states in India. The story behind this dataset is how lock-down affects employment opportunities and how the unemployment rate increases during the Covid-19 for different states in India for last one year. Within the dataset, vital indicators including State-wise breakdown, timeline, measurement frequency, Estimated Unemployment Rate (%), Estimated Employed Individuals, Estimated Labour Participation Rate (%) and Area are encompassed. These columns are briefed as follows:
 - Region: Various states constituting the Indian subcontinent.
 - Date: The specific dates of unemployment rate recordings.
 - Frequency: The regularity of measurement collection (Monthly).
