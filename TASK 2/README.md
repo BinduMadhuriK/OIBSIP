@@ -27,10 +27,10 @@ Unemployment, a critical economic indicator, is typically quantified using the u
 - The analysis aims to provide insights into the pandemic's socio-economic effects on India's workforce and labor arena.
 
 ## Project Details
-- Unemployment Rate: The primary focus is on understanding the unemployment rate, which serves as an essential economic indicator.
-- COVID-19 Impact: Given the profound effects of the COVID-19 pandemic, the analysis will pay particular attention to the pandemic's role in unemployment rate fluctuations.
-- Data Analysis: Python will be the primary tool for data analysis, enabling the exploration of unemployment data, the identification of correlations with other economic indicators, and the visualization of trends.
-- Recommendations: The project will conclude by providing actionable recommendations or insights that can guide policy-making, labor market interventions, or economic recovery strategies.
+- **Unemployment Rate:** The primary focus is on understanding the unemployment rate, which serves as an essential economic indicator.
+- **COVID-19 Impact:** Given the profound effects of the COVID-19 pandemic, the analysis will pay particular attention to the pandemic's role in unemployment rate fluctuations.
+- **Data Analysis:** Python will be the primary tool for data analysis, enabling the exploration of unemployment data, the identification of correlations with other economic indicators, and the visualization of trends.
+- **Recommendations:** The project will conclude by providing actionable recommendations or insights that can guide policy-making, labor market interventions, or economic recovery strategies.
 
 This project holds significant importance, as addressing unemployment challenges and understanding their causes is crucial for policymakers, governments, and organizations in fostering economic recovery and ensuring the well-being of individuals within the labor force.
 
@@ -38,15 +38,17 @@ This project holds significant importance, as addressing unemployment challenges
 In this data science project, we embarked on a comprehensive analysis of the unemployment rate, a critical economic indicator, with a particular focus on the unprecedented challenges brought about by the Covid-19 pandemic. Our exploratory data analysis yielded valuable insights that shed light on the dynamics of unemployment in India. 
 
 1. We observed a significant surge in the Estimated Unemployment Rate during the Covid-19 lockdown, underscoring the profound impact of the pandemic on the labor market.
-
 2. Our state-wise analysis highlighted the states that bore the brunt of this crisis. Puducherry and Jharkhand stood out with the highest Estimated Unemployment Rates during the lockdown, while Haryana and Tripura held the top positions before the pandemic.
-
 3. The transition from pre-lockdown to lockdown was marked by shifts in the states with the highest Estimated Unemployment Rates. Tripura, Haryana, and Himachal Pradesh led the rankings before the lockdown, whereas Puducherry, Jharkhand, and Bihar claimed the top spots during the lockdown.
-
 4. Notably, states like Uttar Pradesh, Maharashtra, and West Bengal exhibited consistent challenges in maintaining high levels of Estimated Employed Workforce both before and during the lockdown.
-
 5. Our analysis of Estimated Labour Participation Rate identified states that showed resilience in labor force participation. Telangana, Tripura, Meghalaya, and Assam topped the list before the lockdown, while Meghalaya, Telangana, Tripura, and Andhra Pradesh excelled during the lockdown.
-
 6. We uncovered a robust negative correlation between Estimated Unemployment Rate and Estimated Employed, highlighting the intricate relationship between these two crucial employment indicators, both before and during the lockdown.
 
 This project not only provided valuable insights into the economic impact of the Covid-19 pandemic but also demonstrated the power of data science in understanding and addressing complex socio-economic challenges. The findings contribute to informed decision-making and policy formulation, and underscore the importance of data-driven approaches in mitigating the effects of future crises.
+
+## Additional Notes
+In this project, I performed an in-depth analysis of Unemployment Rate using Python as part of the Data Science Internship at [Oasis Infobyte](https://www.linkedin.com/company/oasis-infobyte/mycompany/). I explored various visualizations to understand the trends and patterns in Unemployment Data. The project includes descriptive statistics, heatmaps, box plots, bar plots, scatter plots, and pair plots to gain insights into the impact of lockdown on employment.
+
+Please refer to the Jupyter Notebook file ```Unemployment Analysis with Python.ipynb``` for a detailed step-by-step analysis and visualization code.
+
+> If you have any questions or suggestions, feel free to reach out to my LinkedIn profile [here](https://www.linkedin.com/in/bindu-madhuri-kadiyala-79a55718a/)
