@@ -46,7 +46,7 @@ In this data science project, we embarked on a comprehensive analysis of the une
 
 This project not only provided valuable insights into the economic impact of the Covid-19 pandemic but also demonstrated the power of data science in understanding and addressing complex socio-economic challenges. The findings contribute to informed decision-making and policy formulation, and underscore the importance of data-driven approaches in mitigating the effects of future crises.
 
-## Additional Notes
+## Appendix
 In this project, I performed an in-depth analysis of Unemployment Rate using Python as part of the Data Science Internship at [Oasis Infobyte](https://www.linkedin.com/company/oasis-infobyte/mycompany/). I explored various visualizations to understand the trends and patterns in Unemployment Data. The project includes descriptive statistics, heatmaps, box plots, bar plots, scatter plots, and pair plots to gain insights into the impact of lockdown on employment.
 
 Please refer to the Jupyter Notebook file ```Unemployment Analysis with Python.ipynb``` for a detailed step-by-step analysis and visualization code.
