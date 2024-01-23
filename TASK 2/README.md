@@ -5,6 +5,6 @@ Unemployment Analysis with machine learning .Unemployment is measured by the une
 
 • Required packages installed, that are pandas, numpy, plotly, seaborn, matplotlib, calendar, datetime.
 
-•	This project dataset contains  Unemployment in India dataset Unemployment in India.csv and Unemployment_Rate_upto_11_2020.csv link :
+•	This project dataset contains Unemployment in India dataset Unemployment in India.csv link :
 
      https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
