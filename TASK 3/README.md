@@ -30,7 +30,7 @@ Predicting the price of cars is based on a wide range of attributes and features
 - Create a machine learning model to predict car prices based on various influencing factors including brand reputation, features, horsepower, and fuel efficiency.
 - Gain valuable experience in the field of machine learning and automotive pricing.
 
-## Key Tasks:
+## Key Tasks
 
 1. Data Collection: Gather data on various car attributes and their corresponding prices.
 2. Data Preprocessing: Clean, transform, and prepare the data for modeling.
@@ -40,8 +40,16 @@ Predicting the price of cars is based on a wide range of attributes and features
 6. Model Comparison: Compare the model's accuracy and choose the robust model for accurate price prediction.
 7. Training with Best Model: To Make the trained model available for car price predictions.
 
-## Benefits: 
+## Benefits
 By completing this project, we'll gain valuable insights into machine learning, data analysis, and the automotive industry. We'll also have a functional car price prediction model that can be useful for future car pricing decisions.
+
+## Results
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+
 
 ## Conclusion
 This project explores the automotive industry's intricate dynamics, aiming to predict car prices with machine learning. By analyzing various factors such as fuel type, selling type, and transmission, we uncover valuable insights and select a robust model for accurate price prediction.
