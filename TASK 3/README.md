@@ -44,6 +44,8 @@ Predicting the price of cars is based on a wide range of attributes and features
 By completing this project, we'll gain valuable insights into machine learning, data analysis, and the automotive industry. We'll also have a functional car price prediction model that can be useful for future car pricing decisions.
 
 ## Results
+The following table represents the performance metrics for all the models trained. Performance metrics such as R2 Score, MAE, MSE and RMSE are evaluated to compare the model's accuracy and choose the robust model for accurate price prediction. I have selected R2 score as the primary evaluation metric for the Car Price Prediction model. 
+
 |          Models           | R2 score | Mean Absolute Error (MAE) | Mean Squared Error (MSE)	| Root Mean Square Error (RMSE) |
 | :------------------------ |:-------- |:------------------------- | :----------------------- | :---------------------------- |
 | GradientBoostingRegressor | 0.967601 |          0.421077         |        0.384427          |            0.620021           |
@@ -51,6 +53,8 @@ By completing this project, we'll gain valuable insights into machine learning, 
 | DecisionTreeRegressor     | 0.946469 |          0.488879         |        0.635162          |            0.796971           |
 | XGBRegressor              | 0.927664 |          0.535207         |        0.858288          |            0.926438           |
 | LinearRegression          | 0.872995 |          0.937785         |        1.506962          |            1.227584           |
+
+All the Models performed well but the high R2 score is achieved by Gradient Boosting Regressor model with the least MSE. By using Gradient Boosting Regressor model we can improve Selling Price of the cars prediction more accurately.
 
 ## Conclusion
 This project explores the automotive industry's intricate dynamics, aiming to predict car prices with machine learning. By analyzing various factors such as fuel type, selling type, and transmission, we uncover valuable insights and select a robust model for accurate price prediction.
