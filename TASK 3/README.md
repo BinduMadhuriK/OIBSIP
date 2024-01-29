@@ -76,7 +76,7 @@ This project explores the automotive industry's intricate dynamics, aiming to pr
 - The majority of cars are sold through dealers, underscoring the role of dealerships in the automotive market.
 - 'Manual' transmission cars significantly outnumber 'Automatic' transmission cars, showcasing consumer transmission preferences.
 - 'First Owner' cars generally command higher 'Selling_Price,' while 'Second' or 'Third Owner' cars often have lower prices.
-- Various machine learning models were assessed, with the Gradient Boosting Regressor model being chosen for car price prediction due to its robust performance.
+- Various machine learning models were assessed, out of which the Gradient Boosting Regressor model being chosen for car price prediction due to its robust performance.
 - The project used the R2 score as the primary evaluation metric to assess model accuracy.
 - The Gradient Boosting Regressor model achieved impressive accuracy with 96% R2 score with the least MSE of 0.38, making it a suitable choice for car price prediction.
 
