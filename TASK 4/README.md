@@ -45,7 +45,7 @@ The following table represents the performance metrics for all the models traine
 |          Model            | Precision |   Recall | F1 Score	| Accuracy on Trainset | Accuracy on Testset | Rank |
 | :------------------------ | :-------: | :------: | :------: | :------------------: | :-----------------: | :--: |
 | XGBClassifier             | 0.955752  | 0.892562 | 0.923077 | 0.988623	           | 0.982575            | 1    |
-| SVC                       | 0.954128  | 0.859504 | 0.904348 | 0.986444             | 0.978703            | 2    |
+| SVM                       | 0.954128  | 0.859504 | 0.904348 | 0.986444             | 0.978703            | 2    |
 | RandomForestClassifier    | 0.989583  | 0.785124 | 0.875576 | 0.999758	           | 0.973863            | 3    |
 | BaggingClassifier         | 0.864000  | 0.892562 | 0.878049 | 0.999758             | 0.970958            | 4    |
 | AdaBoostClassifier        | 0.945455  | 0.859504 | 0.900433 | 0.981118             | 0.977735            | 5    |
@@ -63,7 +63,7 @@ In this end-to-end project, we have learned how to approach a problem statement,
 
 This project provides an overview of using different techniques to classify an email as "spam" or "not". In order to solve this classification problem we used the several machine learning algorithmns and in particular, the XGBoost Classifier outperformed all other models as it was having the highest Rank and for the vectorization technique, we used TFIDF. TF-IDF is an information retrieval technique that weighs a term’s frequency (TF) and its inverse document frequency (IDF). Each word or term that occurs in the text has its respective TF and IDF score.
 
-We propose the **XGBoost Classifier** and **SVM** Algorithm for effective and efficient email spam filtering in this project. In addition, the algorithm’s efficacy and efficiency were evaluated using precision, Recall, F1-score, Trainset Accuracy and Testset Accuracy on spam dataset. We can conclude by saying that **XGBoost Classifier** is a promising method that may be used either at the mail server or at the mail client to reduce the number of spam messages in email user's inboxes.
+We propose the **XGBoost Classifier** for effective and efficient email spam filtering in this project. In addition, the algorithm’s efficacy and efficiency were evaluated using precision, Recall, F1-score, Trainset Accuracy and Testset Accuracy on spam dataset. We can conclude by saying that **XGBoost Classifier** and **SVM** Algorithm are the promising methods that may be used either at the mail server or at the mail client to reduce the number of spam messages in email user's inboxes.
 
 With the right tools and techniques, it is possible to build highly effective spam mail detection systems using machine learning. The selection of the optimal model should consider factors beyond just accuracy, such as computational efficiency and the specific requirements of the application. It is advisable to perform further model fine-tuning and validation before making a final choice. By leveraging the power of these techniques, we can help protect individuals and organizations from the growing threat of spam and other email-based attacks.
 
