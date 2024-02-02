@@ -40,20 +40,22 @@ The primary goal of this project is to develop a predictive model that accuratel
 9. Model Comparison: Compare the model's accuracy and choose the robust model for accurate Email Spam Detection model.
 
 ## Results
-The following table represents the performance metrics for all the models trained. Performance metrics such as precision, Recall, F1-score, Trainset Accuracy and Testset Accuracy are evaluated on spam dataset to compare the model's accuracy and choose the robust model for accurate Email Spam Detection system. I have selected R2 score as the primary evaluation metric for the Email Spam Detection model. 
+The following table represents the performance metrics for all the models trained. Performance metrics such as precision, Recall, F1-score, Trainset Accuracy and Testset Accuracy are evaluated on spam dataset to compare the model's accuracy and choose the robust model for accurate Email Spam Detection. I have selected Accuracy on Testset as the primary evaluation metric for the Email Spam Detection model. 
 
 |          Model            | Precision |   Recall | F1 Score	| Accuracy on Trainset | Accuracy on Testset | Rank |
 | :------------------------ | :-------: | :------: | :------: | :------------------: | :-----------------: | :--: |
-|                           |           |          |          |                      |                     |      |
-|                           |           |          |          |                      |                     |      |
-|                           |           |          |          |                      |                     |      |
-|                           |           |          |          |                      |                     |      |
-|                           |           |          |          |                      |                     |      |
-|                           |           |          |          |                      |                     |      |
-|                           |           |          |          |                      |                     |      |
-|                           |           |          |          |                      |                     |      |
-|                           |           |          |          |                      |                     |      |
-|                           |           |          |          |                      |                     |      |
+| XGBClassifier             | 0.955752  | 0.892562 | 0.923077 | 0.988623	           | 0.982575            | 1    |
+| SVC                       | 0.954128  | 0.859504 | 0.904348 | 0.986444             | 0.978703            | 2    |
+| RandomForestClassifier    | 0.989583  | 0.785124 | 0.875576 | 0.999758	           | 0.973863            | 3    |
+| BaggingClassifier         | 0.864000  | 0.892562 | 0.878049 | 0.999758             | 0.970958            | 4    |
+| AdaBoostClassifier        | 0.945455  | 0.859504 | 0.900433 | 0.981118             | 0.977735            | 5    |
+| NaiveBayes                | 0.988889  | 0.735537 | 0.843602 | 0.971435             | 0.968054            | 6    |
+| LogisticRegression	      | 0.941748  | 0.801653 | 0.866071 | 0.966594             | 0.970958            | 7    |
+| GradientBoostingClassifier| 0.946237  | 0.727273 | 0.822430 | 0.972162             | 0.963214            | 8    |
+| KNeighborsClassifier      | 1.000000  | 0.314050 | 0.477987 | 0.922053             | 0.919652            | 9    |
+| DecisionTreeClassifier    | 0.783019  | 0.685950 | 0.731278 | 0.957879             | 0.940949	           | 10   |
+
+The **XGBoost classifier** accurately identified the email messages as spam or not spam with highest accuracy of 98.2% on test data and Precision of 95.5%, followed by **SVM** model with 97.8% accuracy on test data and Precision of 95.4%
 
 ## Conclusion
 
@@ -61,7 +63,7 @@ In this end-to-end project, we have learned how to approach a problem statement,
 
 This project provides an overview of using different techniques to classify an email as "spam" or "not". In order to solve this classification problem we used the several machine learning algorithmns and in particular, the XGBoost Classifier outperformed all other models as it was having the highest Rank and for the vectorization technique, we used TFIDF. TF-IDF is an information retrieval technique that weighs a term’s frequency (TF) and its inverse document frequency (IDF). Each word or term that occurs in the text has its respective TF and IDF score.
 
-We propose the XGBoost Algorithm for effective and efficient email spam filtering in this project. In addition, the algorithm’s efficacy and efficiency were evaluated using precision, Recall, F1-score, Trainset Accuracy and Testset Accuracy on spam dataset. We can conclude by saying that XGboost Classifier is a promising method that may be used either at the mail server or at the mail client to reduce the number of spam messages in email user's inboxes.
+We propose the **XGBoost Classifier** and **SVM** Algorithm for effective and efficient email spam filtering in this project. In addition, the algorithm’s efficacy and efficiency were evaluated using precision, Recall, F1-score, Trainset Accuracy and Testset Accuracy on spam dataset. We can conclude by saying that **XGBoost Classifier** is a promising method that may be used either at the mail server or at the mail client to reduce the number of spam messages in email user's inboxes.
 
 With the right tools and techniques, it is possible to build highly effective spam mail detection systems using machine learning. The selection of the optimal model should consider factors beyond just accuracy, such as computational efficiency and the specific requirements of the application. It is advisable to perform further model fine-tuning and validation before making a final choice. By leveraging the power of these techniques, we can help protect individuals and organizations from the growing threat of spam and other email-based attacks.
 
