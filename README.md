@@ -42,8 +42,7 @@ To know more about this company, click [here](https://oasisinfobyte.com/) to vis
 - Project: **UNEMPLOYMENT ANALYSIS WITH PYTHON**
 - Description: Unemployment is measured by the unemployment rate which is the number of people who are unemployed as a percentage of the total labour force. We have seen a sharp increase in the unemployment rate during Covid-19, so analyzing the unemployment rate can be a good data science project. 
 - Dataset Provided: [Unemployment in India](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
-- Libraries used: 
-- Models used:   
+- Libraries used: Numpy, Pandas, Matplotlib, Seaborn,Plotly, calender and datetime  
 - Repository: The project's GitHub repository can be found at [TASK 2](https://github.com/BinduMadhuriK/OIBSIP/tree/main/TASK%202).
 
 ## TASK 3
@@ -51,8 +50,8 @@ To know more about this company, click [here](https://oasisinfobyte.com/) to vis
 - Project: **CAR PRICE PREDICTION WITH MACHINE LEARNING**
 - Description: The price of a car depends on a lot of factors like the goodwill of the brand of the car, features of the car, horsepower and the mileage it gives and many more. Car price prediction is one of the major research areas in machine learning. So if you want to learn how to train a car price prediction model then this project is for you.
 - Dataset Provided: [Car data](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars)
-- Libraries used: 
-- Models used:   
+- Libraries used: Numpy, Pandas, Matplotlib, Seaborn, datetime, and scikit-learn
+- Models used: Gradient Boosting Regressor, Random Forest Regressor, Decision Tree Regressor, XGBoost Regressor and Linear Regression  
 - Repository: The project's GitHub repository can be found at [TASK 3](https://github.com/BinduMadhuriK/OIBSIP/tree/main/TASK%203).
  
 ## TASK 4
@@ -60,8 +59,8 @@ To know more about this company, click [here](https://oasisinfobyte.com/) to vis
 - Project: **EMAIL SPAM DETECTION WITH MACHINE LEARNING**
 - Description: We’ve all been the recipient of spam emails before. Spam mail, or junk mail, is a type of email that is sent to a massive number of users at one time, frequently containing cryptic messages, scams, or most dangerously, phishing content. In this Project, we have to use Python to build an email spam detector. Then, we need to use machine learning to train the spam detector to recognize and classify emails into spam and non-spam. 
 - Dataset Provided: [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
-- Libraries used: 
-- Models used:   
+- Libraries used: Numpy, Pandas, Matplotlib, Seaborn, re, wordcloud, nltk and scikit-learn
+- Models used: Logistic Regression, Random Forest Classifier, KNN Classifier, Naive Bayes Classifier, SVM Classifier, Bagging Classifier, AdaBoost Classifier, Gradient Boosting Classifier, XGBoost Classifier and Decision Tree Classifier   
 - Repository: The project's GitHub repository can be found at [TASK 4](https://github.com/BinduMadhuriK/OIBSIP/tree/main/TASK%204).
  
 ## TASK 5
