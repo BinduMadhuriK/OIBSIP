@@ -62,7 +62,7 @@ The project aimed to classify Iris flowers into three distinct species: Iris-Set
 ## Appendix
 In this project, I have developed a machine learning model capable of learning from the measurements of iris flowers and accurately classifying them into their respective species and automate the classification process, offering a practical solution for identifying iris species as part of the Data Science Internship at [Oasis Infobyte](https://www.linkedin.com/company/oasis-infobyte/mycompany/). I have trained several machine learning models on a dataset that contains iris flower measurements associated with their respective species for classifying Iris species and evaluated using appropriate metrics. The best model that was choosen due to its simplicity, interpretability and good performance, demonstrated satisfactory accuracy and precision in classifying Iris species.
 
-Please refer to the Jupyter Notebook file ```Iris Flower Classification.ipynb``` for a detailed step-by-step process of classifying Iris flowers code into their respective species.
+Please refer to the Jupyter Notebook file ```Iris Flower Classification.ipynb``` for a detailed step-by-step process of classifying Iris flowers code into their respective species. Also refer to ```Iris_Flower_Classified.csv``` file which contains the Iris species classification after predicting with KNN model.
 
 > If you have any questions or suggestions, feel free to reach out to my LinkedIn profile [here](https://www.linkedin.com/in/bindu-madhuri-kadiyala-79a55718a/)
 
