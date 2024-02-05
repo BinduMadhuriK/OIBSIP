@@ -33,8 +33,8 @@ To know more about this company, click [here](https://oasisinfobyte.com/) to vis
 - Project: **IRIS FLOWER CLASSIFICATION**
 - Description: Iris flower has three species - setosa, versicolor, and virginica, which differs according to their measurements. Now assume that we have the measurements of the iris flowers according to their species, and here the task is to train a machine learning model that can learn from the measurements of the iris species and classify them. 
 - Dataset Provided: The Scikit-learn library provides the dataset for iris flower classification. The same dataset [link](https://www.kaggle.com/datasets/saurabh00007/iriscsv) is shared for the task of iris flower classification with Machine Learning.
-- Libraries used: pandas, numpy, matplotlib, seaborn, pickle, sklearn, Logistic Regression, Decision Tree, K-Neighbors, Naïve Bayes, SVC.
-- Models used: Decision Tree, K-Neighbors, Naïve Bayes, SVC
+- Libraries used: pandas, numpy, matplotlib, seaborn and scikit-learn.
+- Models used: Logistic Regression, K-Nearest Neighbors (KNN) classification, Gaussian Naive Bayes classification, Support Vector Machine, Decision Tree, and Random Forest
 - Repository: The project's GitHub repository can be found at [TASK 1](https://github.com/BinduMadhuriK/OIBSIP/tree/main/TASK%201).
 
 ## TASK 2
@@ -68,8 +68,8 @@ To know more about this company, click [here](https://oasisinfobyte.com/) to vis
 - Project: **SALES PREDICTION USING PYTHON**
 - Description: Sales prediction means predicting how much of a product people will buy based on factors such as the amount you spend to advertise your product, the segment of people you advertise for, or the platform you are advertising on about your product. Typically, a product and service-based business always need their Data Scientist to predict their future sales with every step they take to manipulate the cost of advertising their product. Complete the task of sales prediction with machine learning using Python.
 - Dataset Provided: [Advertising Dataset](https://www.kaggle.com/datasets/bumba5341/advertisingcsv)
-- Libraries used: 
-- Models used: 
+- Libraries used: pandas, numpy, matplotlib, seaborn and scikit-learn.
+- Models used: Linear Regression, Ridge Regression, ElasticNet Regression, Lasso Regression, KNN Regression, Decision Tree Regression, XGBoost Regression, Random Forest Regression and Gradient Boosting
 - Repository: The project's GitHub repository can be found at [TASK 5](https://github.com/BinduMadhuriK/OIBSIP/tree/main/TASK%205).
   
 ## Conclusion
