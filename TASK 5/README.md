@@ -7,11 +7,11 @@
 ## About the Dataset
 The advertising dataset consists of sales of the products in 200 different markets. It also includes advertising budgets for the product in each of those markets for three different media: TV, radio, and newspapers. The dataframe with 200 rows and 5 variables are as follows:
 
-Unnamed: 0 - contains index
-TV: a numeric vector indicating the advertising budget on TV.
-Radio: a numeric vector indicating the advertising budget on radio.
-Newspaper: a numeric vector indicating the advertising budget on newspaper.
-Sales: a numeric vector indicating the sales of the interest product.
+- Unnamed: 0 - contains index
+- TV: a numeric vector indicating the advertising budget on TV.
+- Radio: a numeric vector indicating the advertising budget on radio.
+- Newspaper: a numeric vector indicating the advertising budget on newspaper.
+- Sales: a numeric vector indicating the sales of the interest product.
 
 Dataset Link:
 ```
