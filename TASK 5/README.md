@@ -34,7 +34,7 @@ The project aims to deliver a robust sales prediction model, enabling businesses
 The following table represents the performance metrics for all the models trained. Performance metrics such as R2 Score, MAE, MSE, MAPE and RMSE are evaluated to compare the model's accuracy and choose the robust model for accurate sales prediction. I have selected R2 score as the primary evaluation metric for the Sales Prediction model. 
 
 |          Models           | R2 score | Mean Squared Error (MSE) |
-| :------------------------ |:-------- |:-------------------------|
+| :------------------------ |:-------- |:------------------------:|
 | Linear Regression         | 0.899438 |           3.174          |       
 | Ridge Regression          | 0.899438 |        3.174             |       
 | ElasticNet Regression	    | 0.899474 |       3.173              |
@@ -67,7 +67,7 @@ This project not only addresses the nuances of sales prediction but also highlig
 ## Appendix
 In this project, I have developed a machine learning model using Python to predict future sales as part of the Data Science Internship at [Oasis Infobyte](https://www.linkedin.com/company/oasis-infobyte/mycompany/). I explored various visualizations to understand the trends and patterns in Advertising Data. In this project various machine learning models were assessed, with the Gradient Boosting Regressor model being chosen for sales prediction due to its robust performance. Also evaluated the models with various performance metrices in which R2 score is used as the primary evaluation metric to assess model accuracy.
 
-Please refer to the Jupyter Notebook file ```Sales Prediction Using Python.ipynb``` for a detailed step-by-step analysis with various visualizations and Sales prediction code.  Also refer to ```Sales_Prediction``` file which contains the predicted sales after predicting with Gradient Boosting Regression model.
+Please refer to the Jupyter Notebook file ```Sales Prediction Using Python.ipynb``` for a detailed step-by-step analysis with various visualizations and Sales prediction code.  Also refer to ```Sales_Prediction.csv``` file which contains the predicted sales after predicting with Gradient Boosting Regression model.
 
 > If you have any questions or suggestions, feel free to reach out to my LinkedIn profile [here](https://www.linkedin.com/in/bindu-madhuri-kadiyala-79a55718a/)
 
